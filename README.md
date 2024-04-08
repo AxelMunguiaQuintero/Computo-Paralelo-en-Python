@@ -7,7 +7,13 @@
 
 ## Descripción
 
-Este curso está diseñado para proporcionar una comprensión sólida de la computación paralela y la programación concurrente utilizando el lenguaje de programación Python. Explorarás estrategias clave para optimizar el rendimiento en tus programas y aplicaciones, desarrollando habilidades prácticas para abordar desafíos en la programación concurrente. Al finalizar, estarás listo para aplicar estos conocimientos y potenciar tus capacidades en el mundo de la programación paralela.
+Este curso está diseñado para proporcionar una comprensión sólida de la computación paralela y la programación concurrente utilizando el lenguaje de programación Python. Explorarás estrategias clave para optimizar el rendimiento en tus programas y aplicaciones, desarrollando habilidades prácticas para abordar desafíos en la programación concurrente. 
+
+A lo largo de cada módulo, desentrañarás los entresijos de la computación paralela, comprendiendo cómo se pueden dividir las tareas en unidades más pequeñas y procesarlas simultáneamente para acelerar la ejecución y mejorar la eficiencia. A través de ejemplos prácticos y ejercicios interactivos, adquirirás una comprensión sólida de los conceptos clave, incluidos los hilos, los procesos, las primitivas de sincronización y los modelos de concurrencia.
+
+Además, este curso te proporcionará las habilidades prácticas necesarias para abordar los desafíos inherentes a la programación concurrente. Aprenderás a diseñar algoritmos eficientes, gestionar recursos compartidos de manera segura y evitar condiciones de carrera y bloqueos indeseados. Asimismo, explorarás técnicas avanzadas, como el uso de semáforos, cerrojos, barreras de sincronización y más, para crear aplicaciones robustas y escalables.
+
+Al finalizar este curso, estarás equipado con el conocimiento y la experiencia necesarios para aplicar con confianza tus habilidades en el vasto y emocionante campo de la programación paralela. Ya sea que estés interesado en desarrollar aplicaciones de alto rendimiento, optimizar algoritmos complejos o abordar problemas de concurrencia en sistemas distribuidos, este curso te proporcionará una base sólida y te preparará para enfrentar los desafíos del mundo real con destreza y maestría.
 
 ## Lo que aprenderás
 
